@@ -19,4 +19,5 @@ r.height = 10;
 r.width = 5;
 double p = r.Area();
 cout << "Pole prostokata o bokach " << r.height << " i " << r.width << " to: " << p;
+int* ptr = new int;
 }

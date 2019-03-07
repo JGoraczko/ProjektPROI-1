@@ -2,4 +2,5 @@
 double Complex::Sum(Complex z){
 	re += z.re;
 	im += z.im;
+	int* ptr = new int;
 }
