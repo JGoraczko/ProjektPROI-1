@@ -1,2 +1,2 @@
 all:
-	g++ main.cpp Complex.cpp -o program
+	g++ main.cpp Complex.cpp Rectangle.cpp -o program
